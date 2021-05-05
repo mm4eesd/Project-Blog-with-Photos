@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: cyan;
+}
+div {
+margin-top: 15px;
+    width: 1200;
+    height: 300;
+    margin-left: 200px;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color:white
+}
+img{
+   
+   width: 300;
+    height:250;
+}
